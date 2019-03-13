@@ -1,0 +1,13 @@
+1) mkdir SVC
+2) cd SVC
+3) ls
+4) touch Sample.txt
+5) notepad Sample.txt (add content and save)
+6) ls
+7) git init
+8) git remote add origin https://user/svc 
+9) git status
+10) git add
+11) git status
+12) git commit-m "comment relevent"
+13) git push master origin
